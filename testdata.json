@@ -1,0 +1,22 @@
+{
+  "baseURL": "https://qa.lawft.com",
+  "login_wihtout_2FA": {
+    "email": "oasi.aj+otestuser@inapp.com",
+    "password": "OasiQA@123"
+  },
+  "login": {
+    "email": "linda.g+qa@inapp.com",
+    "password": "LindaQA@123",
+    "totpCode": "123456",
+    "tenant": "OTestUser Assoc"
+  },
+  "lead_1": {
+    "title": "Mr.",
+    "first_name": "Auto",
+    "last_name": "Linda",
+    "email": "linda.g+qa_@test.com",
+    "practice_area": "Family",
+    "case_name": "Family Law Case",
+    "payment_type": "Contingency Fee"
+  }
+}

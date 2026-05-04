@@ -1,0 +1,13 @@
+{
+    "baseURL": "https://qa.lawft.com",
+    "firm_admin_single_tenant": {
+        "email": "oasi.aj+otestuser@inapp.com",
+        "password": "OasiQA@123"
+    },
+    "firm_user1_2fa_multi_tenant": {
+        "email": "linda.g+qa2@inapp.com",
+        "password": "LindaQA@123",
+        "totpCode": "123456",
+        "tenant": "OTestUser Assoc"
+  }
+}
